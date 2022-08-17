@@ -20,6 +20,13 @@
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="30" height="30"/> 
 </a> 
+</a> 
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
+</a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" alt="react" width="30" height="30"/> 
+</a> 
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt="redis" width="30" height="30"/> 
 </a> 
@@ -39,13 +46,7 @@
 </a> 
 <a href="https://www.spigotmc.org/" target="_blank" rel="noreferrer"> 
 <img src="https://static.spigotmc.org/img/spigot-og.png" alt="spigot" width="30" height="30"/> 
-</a> 
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
-</a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" alt="react" width="30" height="30"/> 
-</a> 
+
 
 </p>
 
