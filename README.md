@@ -38,9 +38,14 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="30" height="30"/> 
 </a> 
 <a href="https://www.spigotmc.org/" target="_blank" rel="noreferrer"> 
-<img src="https://static.spigotmc.org/img/spigot-og.png" alt="redis" width="30" height="30"/> 
+<img src="https://static.spigotmc.org/img/spigot-og.png" alt="spigot" width="30" height="30"/> 
 </a> 
-
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
+</a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" alt="react" width="30" height="30"/> 
+</a> 
 
 </p>
 
