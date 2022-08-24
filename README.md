@@ -10,6 +10,7 @@
 </p>
 
 #
+
 </p>
 
 <h6 align="center">Languages and Tools:</h3>
@@ -20,6 +21,8 @@
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="30" height="30"/> 
 </a> 
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+<img src="https://www.svgrepo.com/show/354380/spring-icon.svg" alt="spring" width="30" height="30"/> 
 </a> 
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
@@ -46,7 +49,6 @@
 </a> 
 <a href="https://www.spigotmc.org/" target="_blank" rel="noreferrer"> 
 <img src="https://static.spigotmc.org/img/spigot-og.png" alt="spigot" width="30" height="30"/> 
-
 
 </p>
 
