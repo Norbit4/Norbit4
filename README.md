@@ -56,7 +56,12 @@
 </p>
 
 #
+<h6>Portfolio:</i> </h6>
+
+https://norbit4.github.io/
+
 <h6>Contact with me:</i> </h6>
+
 <ul> 
 <li>dc: <b>BORBI#2685</li></b>
 <li> mail: <b>norr.bitt@gmail.com</li></b>
