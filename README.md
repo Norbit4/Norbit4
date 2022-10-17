@@ -58,7 +58,7 @@
 #
 <h6>Portfolio:</i> </h6>
 
-https://norbit.fun/
+https://norbit.fun
 
 <h6>Contact with me:</i> </h6>
 
