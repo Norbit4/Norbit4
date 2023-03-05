@@ -5,7 +5,7 @@
 <p align="center">
 
 <a href="https://github.com/Norbit4/" target="_blank" rel="noreferrer">
-<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="264" height="216"/></a> 
+<img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp" width="264" height="216"/></a> 
 
 </p>
 
