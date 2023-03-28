@@ -30,8 +30,8 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
 <img src="https://img.icons8.com/fluency/344/node-js.png" alt="nodejs" width="30" height="30"/> 
 </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" alt="react" width="30" height="30"/> 
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="python" width="30" height="30"/> 
 </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> 
