@@ -62,7 +62,16 @@ https://norbit.fun
 
 <h6>Contact with me:</i> </h6>
 
-<ul> 
+<!-- <ul> 
 <li>dc: <b>BORBI#2685</li></b>
 <li> mail: <b>norr.bitt@gmail.com</li></b>
-</ul> 
+</ul>  -->
+
+```javascript
+
+var discordName = "BORBI#2685"
+var mail = "norr.bitt@gmail.com"
+
+console.log(discordName)
+console.log(mail)
+```
