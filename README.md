@@ -1,6 +1,13 @@
 <h2 align="center">Hi 👋, I'm Norbert</h1>
 
-<h4 align="center">A passionate developer from Poland </h4>
+<p align="center">
+ 
+<a href="https://github.com/Norbit4/">
+ <img src="https://readme-typing-svg.demolab.com?font=Chivo+Mono&weight=300&size=14&pause=3000&color=F7E5DC&center=true&vCenter=true&lines=A+passionate+developer+from+Poland+%3C3" alt="Typing SVG" /></a>
+ 
+</p>
+
+<!-- <h4 align="center">A passionate developer from Poland </h4>  -->
 
 <p align="center">
 
@@ -10,8 +17,6 @@
 </p>
 
 #
-
-</p>
 
 
 <h6 align="center">Languages and Tools:</h3>
