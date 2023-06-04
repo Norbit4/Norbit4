@@ -63,7 +63,7 @@
 
 <h6>Portfolio:</i> </h6>
 
-https://norbit.fun
+https://n0rbit.pl/
 
 <h6>Contact with me:</i> </h6>
 
