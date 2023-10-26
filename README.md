@@ -71,6 +71,3 @@ https://n0rbit.pl
 <li> dc: <b>n0rbit<b></li></b>
 <li> mail: <b>norr.bitt@gmail.com</li></b>
 </ul> 
-
-
-[![](https://visitcount.itsvg.in/api?id=Norbit4&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in) 
