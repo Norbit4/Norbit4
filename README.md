@@ -33,6 +33,6 @@
 <h6>Contact with me:</i> </h6>
 
 <ul> 
-<li> dc: <b>n0rbit<b></li></b>
+<li> dc: <b>n0rbit</li></b>
 <li> mail: <b>norr.bitt@gmail.com</li></b>
 </ul> 
