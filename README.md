@@ -34,5 +34,5 @@
 
 <ul> 
 <li> dc: <b>n0rbit</li></b>
-<li> mail: <b>norr.bitt@gmail.com</li></b>
+<li> mail: <b>norbert.sl3ziak@gmail.com</li></b>
 </ul> 
