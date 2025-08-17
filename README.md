@@ -35,4 +35,5 @@
 <ul> 
 <li> dc: <b>n0rbit</li></b>
 <li> mail: <b>norbert.sl3ziak@gmail.com</li></b>
+<li>spigot: <b><a href="https://www.spigotmc.org/resources/authors/norbittech.392197/" target="_blank">NorbitTech</a></b></li>
 </ul> 
