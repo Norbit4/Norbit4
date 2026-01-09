@@ -31,10 +31,27 @@
 #
 
 <h6>Contact with me:</i> </h6>
+<ul>
+  <li>
+    <img src="https://cdn.simpleicons.org/discord/5865F2" width="16" /> |
+    discord: <b>n0rbit</b>
+  </li>
+  <li>
+    <img src="https://cdn.simpleicons.org/maildotru/888888" width="16" /> | 
+    mail: <b>norbert.sl3ziak@gmail.com</b>
+  </li>
+  <li>
+    <img src="https://cdn.simpleicons.org/spigotmc/ED8106" width="16" /> |
+    spigot:
+    <b><a href="https://www.spigotmc.org/resources/authors/norbittech.392197/">NorbitTech</a></b>
+  </li>
+  <li>
+    <img src="https://cdn.simpleicons.org/modrinth/00AF5C" width="16" /> |
+    modrinth:
+    <b><a href="https://modrinth.com/user/norbit">norbit</a></b>
+  </li>
+</ul>
 
-<ul> 
-<li> dc: <b>n0rbit</li></b>
-<li> mail: <b>norbert.sl3ziak@gmail.com</li></b>
-<li>spigot: <b><a href="https://www.spigotmc.org/resources/authors/norbittech.392197/" target="_blank">NorbitTech</a></b></li>
- <li>modrinth: <b><a href="https://modrinth.com/user/norbit" target="_blank">norbit</a></b></li>
-</ul> 
+
+
+
